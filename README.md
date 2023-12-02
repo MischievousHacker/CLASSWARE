@@ -3,7 +3,7 @@ Credit goes to/ https://github.com/UberGuidoZ
 
 Hope to make actually firmware in the future at some point but this is all we have for now.
 
-↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓.
 CashApp: $sl0x
 
 
